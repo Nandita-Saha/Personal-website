@@ -1,0 +1,43 @@
+div {
+    border-style: double;
+    
+    border-width: 10px;
+    border-color:#ecdbeb ;
+    margin-top :0;
+    
+}
+hr{
+            
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(194, 172, 172);
+    border-width: 10px;
+    width: 5%;
+}
+h4 {
+    color: #00587a;
+}
+#a {
+    background-color: #fecd1a;
+
+}
+
+#b{
+    background-color: #f4abc4;
+
+}
+
+#c {
+    background-color: #4657f5;
+
+
+}
+
+#d{
+    background-color: #a3f7bf;
+
+}
+ #e{
+    background-color: #ea907a;
+
+ }
